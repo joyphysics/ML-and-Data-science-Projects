@@ -21,5 +21,7 @@ Jupyter notebooks or Python scripts for data analysis and modeling
 
 Data (or links to datasets)
 
+.pkl files
+
 README files with problem descriptions, approaches, and results
 
